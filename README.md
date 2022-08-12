@@ -3,35 +3,63 @@
 
 1. OBJETIVOS
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO (RESUMEN)
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+**CAPITULO 13: INDUCTORES**
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+**Sección 13-1: El inductor básico.**
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+![7788](https://user-images.githubusercontent.com/105570939/184283783-6d099cbc-84db-4142-8409-cd18786ead9f.png)
+
+![77777](https://user-images.githubusercontent.com/105570939/184283854-25e80396-a285-4b1f-b3dc-785a43a28e47.png)
+
+**Sección 13-2: Tipos de Inductores.**
+
+![image](https://user-images.githubusercontent.com/105570939/184283954-25cf7fa4-87ee-4a54-929e-98bd09bcc661.png)
+
+**Sección 13-3: Inductores en serie y en paralelo.**
+
+Cuando se conectan inductores en serie, la inductancia total aumenta. Cuando se conecta en paralelo, la inductancia total disminuye.
+
+**Inductancia total en serie**
+
+* La inductancia total, LT, es la suma de las inductancias individuales.
+* El cálculo de la inductancia total en serie es análogo al cálculo de la resistencia total en serie y al de la capacitancia total en paralelo.
+
+![image](https://user-images.githubusercontent.com/105570939/184284372-6190da98-e207-4946-a93d-1c472efc5ca4.png)
+
+**Inductancia total en paralelo**
+
+* La inductancia total es menor que la inductancia más pequeña.
+* El calculo de la inductancia total en paralelo en anñalogo al cñalculo de la resistencia total en paralelo y al de la capacitancia total en serie.
+
+![image](https://user-images.githubusercontent.com/105570939/184284633-0dfbb0cd-bf48-4ac7-851a-3964625531d6.png)
+
+![image](https://user-images.githubusercontent.com/105570939/184284652-69560794-5c60-4ff7-94f2-64cf82f78275.png)
+
+**Sección 13-4: Inductores en circuitos de CD.**
+
+![image](https://user-images.githubusercontent.com/105570939/184284853-6b62f1a7-b2f7-4de9-9719-1ac3bef31e9f.png)
+
+**Sección 13-5: Inductores en circuitos de CA.**
+
+![7777777](https://user-images.githubusercontent.com/105570939/184284970-d4c1be8a-5db0-4a91-ae3b-6833ffce8efe.png)
+
+![8888](https://user-images.githubusercontent.com/105570939/184285078-07818d64-19d5-4c35-ab2c-bcfa08b9bb51.png)
+
+**Sección 13-6: Aplicaciones de los inductores.**
+
+![image](https://user-images.githubusercontent.com/105570939/184285546-f581c79a-f1d4-4abd-a456-ad3fc3f583d8.png)
+
+**CAPITULO 14: TRANSFORMADORES**
+
+
+
+
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
