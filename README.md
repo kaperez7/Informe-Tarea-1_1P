@@ -104,8 +104,124 @@ Se usa un transformado de banda ancha para que el valor de la resistencia de car
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+**SECCIÓN 13–1 El inductor básico**
+
+**2. Convierta los siguientes valores en microhenries:**
+
+![image](https://user-images.githubusercontent.com/105570939/185460542-112af775-284e-48df-94ad-ce0e54390710.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185460696-ca74b26b-2dee-4cbd-a619-acaca5a79088.png)
+
+**4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?**
+
+![image](https://user-images.githubusercontent.com/105570939/185460831-9b009b68-246e-4a41-b745-d2e7a5640087.png)
+
+**6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10  105 m2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2  106 H/m.**
+
+![image](https://user-images.githubusercontent.com/105570939/185461016-f79889a0-066b-4c7c-91c7-78ba53f41165.png)
+
+**8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.**
+
+![image](https://user-images.githubusercontent.com/105570939/185461360-b2890ead-a3f9-4481-b538-bdbbffee94cd.png)
+
+**10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4p  106 H/m). Determine la inductancia de la bobina que se formó.**
+
+![image](https://user-images.githubusercontent.com/105570939/185461878-f909816b-f026-4997-8149-cf72c90227b0.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185462172-b9a4d8cd-da02-485b-a889-57268932c56f.png)
+
+**SECCIÓN 13–3 Inductores en serie y en paralelo.**
+
+**12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?**
+
+![image](https://user-images.githubusercontent.com/105570939/185462395-d70a988f-dffa-4004-ac86-cd666972242a.png)
+
+**14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?**
+
+![image](https://user-images.githubusercontent.com/105570939/185462518-4e715cc2-898a-4189-952e-fce2951cc736.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185462589-8a1aed6a-cf7c-4215-bc5e-b523d3c8231e.png)
+
+**16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?**
+
+![image](https://user-images.githubusercontent.com/105570939/185462905-61ca506a-1ebc-428c-bfe5-099e02e1732d.png)
+
+**18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.**
+
+![image](https://user-images.githubusercontent.com/105570939/185463040-0a944b17-275e-4a0a-91cc-690705c4de84.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185463140-0074ceb5-e8df-45ca-88de-e2ce9136dcbe.png)
+
+**SECCIÓN 13–4 Inductores en circuitos de cd.**
+
+**20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:**
+
+![image](https://user-images.githubusercontent.com/105570939/185464027-4d37996b-2ca2-4c88-b27c-0e2076480a96.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185464134-37e26843-0005-4bed-b93d-4f3079420a66.png)
+
+**22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:**
+
+![image](https://user-images.githubusercontent.com/105570939/185464268-b4e35929-c725-4fbc-bd94-e0ed65692505.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185464458-4b8edd58-6f08-49ec-bcce-25fe2c77b83a.png)
+
+**24. Repita el problema 22 para los siguientes instantes:**
+
+![image](https://user-images.githubusercontent.com/105570939/185464530-8ee8dc3d-ff00-4cc0-afad-2238e7a25d7d.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185464730-a7fec53e-cef7-4959-bf46-d8307960d75e.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185464769-8b78ea07-332f-4676-9349-a8e38064f7b4.png)
+
+**26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?**
+
+![image](https://user-images.githubusercontent.com/105570939/185464899-41cb009f-050c-451b-9359-0c4c56ab431e.png)
+
+Podemos decir que la polaridad de nuestra onda cuadrada mientras vaya creciendo el voltaje y el tiempo van a ser directamente proporcionales esto quiere decir que entre más crezca la polaridad disminuye.
+
+**b) ¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?**
+
+![image](https://user-images.githubusercontent.com/105570939/185465133-9590aad6-7a43-4fa2-8beb-53fb085f61bc.png)
+
+**28. (a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?**
+
+![image](https://user-images.githubusercontent.com/105570939/185465343-8564324e-485d-429e-8067-387e633f1799.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185465377-a60d7a60-0c0c-4033-b74a-6d212ae326c1.png)
+
+**(b) ¿Cuál es la corriente después de que transcurren 5t?**
+
+![image](https://user-images.githubusercontent.com/105570939/185465410-a40a6b3f-9895-4d6e-b6a9-56f1d7140a41.png)
+
+**SECCIÓN 13–5 Inductores en circuitos de ca.**
+
+**30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.**
+
+![image](https://user-images.githubusercontent.com/105570939/185465592-b6ba3284-ed93-405e-9c8a-5406e6d5faee.png)
+
+![13](https://user-images.githubusercontent.com/105570939/185465971-c39c5a41-ac1d-43b9-b7fd-9efd6f7a75cf.png)
+
+**32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?**
+
+![image](https://user-images.githubusercontent.com/105570939/185466076-ec6daada-5df2-411c-843f-9d56c31d762a.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185466120-1a0f6188-9378-4283-9355-62e52cd8dd52.png)
+
+**34. En la figura 13-51, determine la potencia reactiva.**
+
+![image](https://user-images.githubusercontent.com/105570939/185466245-9098a8fb-2dc7-4869-bf49-4928713ea7bf.png)
+
+![image](https://user-images.githubusercontent.com/105570939/185466534-9e1d4be4-3b57-4cc7-a4ed-fe5330996eef.png)
+
+**CAPITULO 14:TRANSFORMADORES**
+
+**SECCIÓN 14–1 Inductancia mutua**
+
+**2. Determine el coeficiente de acoplamiento cuando LM  1 mH, L1  8 mH, y L2  2 mH.**
+
+![image](https://user-images.githubusercontent.com/105570939/185466974-e9149f01-3d5d-4b97-ab09-0e9d0b87bfcc.png)
+
 
 4. VIDEO
 
